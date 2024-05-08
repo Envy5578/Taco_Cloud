@@ -3,7 +3,7 @@ package com.example.taco_cloud.Model;
 import lombok.Data;
 
 @Data
-public class Inredient {
+public class Inrgedient {
     private final String id;
     private final String name;
     private final Type type;
