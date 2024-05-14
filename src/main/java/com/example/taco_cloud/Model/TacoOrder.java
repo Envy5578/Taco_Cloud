@@ -1,4 +1,4 @@
-package com.example.taco_cloud.Model;
+package com.example.taco_cloud.model;
 import java.util.ArrayList;
 import java.util.List;
 import lombok.Data;
